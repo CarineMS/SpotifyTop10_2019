@@ -1,4 +1,4 @@
-<h1>Análise dos Dados do Spotify - Top 50 2019</h1>
+<h1>Análise dos Dados do Spotify - Top 10 2019</h1>
 
 Os dados são fornecidos pela comunidade de cientista de dados *Kaggle* que é uma plataforma de aprendizado e prática de Data Science. Por meio do portal [Kaggle](https://www.kaggle.com/leonardopena/top50spotify2019) é possível baixar uma grande quantidade de dados para desenvolver projetos e soluções de *Data Science*.
 
